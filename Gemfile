@@ -10,6 +10,12 @@ end
 gem 'rails', '~> 5.0.1'
 # bcrypt gem
 gem 'bcrypt'
+# faker gem
+gem 'faker'
+# will paginate gem
+gem 'will_paginate'
+# bootstrap will paginate gem
+gem 'bootstrap-will_paginate'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
